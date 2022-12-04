@@ -10,6 +10,6 @@ public class testController {
 
     @GetMapping
     public Object test(){
-        return "funciona";
+        return "Esta aplicación está funcionado correctamente.";
     }
 }
